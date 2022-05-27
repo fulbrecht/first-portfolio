@@ -1,3 +1,5 @@
+/*This is my custom portfolio css*/
+
 html, body {
   background: lightcyan;
   font-family: helvetica;
@@ -11,11 +13,13 @@ header{
   padding: 50px;
 }
 
+/*Anchor styles*/
 nav a {
   
   margin: 25px;
 }
 
+/*Main Anchor styles*/
 main a:link {
   color: red;
 }
@@ -53,6 +57,7 @@ article {
   text-align: center;
 }
 
+/*logo class to resize logos*/
 .logo{
   width: 20px;
   height: 20px;
