@@ -3,11 +3,12 @@
 html, body {
   background: lightcyan;
   font-family: helvetica;
+  color: #00120B
 }
 
 header{
-  background: lightgray;
-  color: black;
+  background: #586994;
+  color: #FBB13C;
   height: 200px;
   margin: 0px;
   padding: 50px;
@@ -15,7 +16,7 @@ header{
 
 /*Anchor styles*/
 nav a {
-  
+  color: #FBB13C;
   margin: 25px;
 }
 
