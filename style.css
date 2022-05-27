@@ -1,0 +1,60 @@
+html, body {
+  background: lightcyan;
+  font-family: helvetica;
+}
+
+header{
+  background: darkgray;
+  color: black;
+  height: 200px;
+  margin: 0px;
+  padding: 50px;
+}
+
+nav a {
+  
+  margin: 25px;
+}
+
+main a:link {
+  color: red;
+}
+
+main a:visited{
+  color: blue;
+}
+
+main a:hover {
+  color: green;
+  font-size: 25px;
+}
+
+main a:active {
+  color: pink;
+}
+
+h1 {
+  font-size: 55px;
+  font-family: serif;
+}
+h2 {
+  font-size: 40px;
+}
+hr {
+  border-top: 4px dashed white ;
+}
+
+article {
+  margin: 10px;
+  padding: 10px;
+  background: white;
+}
+.centered {
+  text-align: center;
+}
+
+.logo{
+  width: 20px;
+  height: 20px;
+  
+}
